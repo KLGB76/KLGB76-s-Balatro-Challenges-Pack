@@ -36,6 +36,10 @@ The bosses are themed around weapons. List of boss blinds:
 - The Knuckle
 - The Nuke (based of an idea by Scyhigh, made possible thanks to the help of Dilly_The_Dillster)
 
+Changelog(s):
+
+- v1.1.0: Fixed interaction between debuffing Boss Blinds and Rank-Changing Consumables
+
 Known Bug(s):
 - Joker still appears in BANANAS!!! (probably fail-safe if uncommon Jokers are supposed to spawn)
 - The sound of cards being destroyed by Guillotine/Scythe plays twice
