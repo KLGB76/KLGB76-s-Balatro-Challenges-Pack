@@ -1,6 +1,6 @@
 # KLGB76's Balatro Challenges Pack
 
-This mod adds a total of 19 Challenges and 7 Boss Blinds, imagined by KLGB76, to the game.
+This mod adds a total of 20 Challenges and 7 Boss Blinds, imagined by KLGB76, to the game.
 
 You'll need [KLGB76's Joker Pack﻿](https://github.com/KLGB76/KLGB76-s-Balatro-Joker-Pack), as well as [Challenger Deep﻿](https://github.com/OOkayOak/Challenger-Deep) to play all the challenges.
 
@@ -25,6 +25,7 @@ The challenges vary greatly in difficulty and theming. List of challenges:
 - Which came first?
 - Collect them all
 - Obscured
+- 3 Dices, 1 Dream (v1.5.0 and above)
 
 The bosses are themed around weapons. List of boss blinds:
 
