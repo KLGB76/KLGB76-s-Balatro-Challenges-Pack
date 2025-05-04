@@ -40,6 +40,8 @@ The bosses are themed around weapons. List of boss blinds:
 Changelog(s):
 
 - v1.1.0: Fixed interaction between debuffing Boss Blinds and Rank-Changing Consumables
+- v1.5.0: Added 1 challenge
+- v1.6.0: Fixed bug where The Scythe would not fully destroy cards, resulting in the game drawing ghost cards
 
 Known Bug(s):
 - Joker still appears in BANANAS!!! (probably fail-safe if uncommon Jokers are supposed to spawn)
